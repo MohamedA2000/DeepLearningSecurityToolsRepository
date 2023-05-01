@@ -8,10 +8,11 @@ Toronto Metropolitan University — Department of Electrical, Computer, and Biom
 
 ## CONTRIBUTORS
 
-- [Nathan Cheung](https://www.linkedin.com/in/~nathan/)
 - [Mohamed Abuomar](https://www.linkedin.com/in/~mohamed/)
-- [Ornello Iannace](https://www.linkedin.com/in/ornello-iannace-b795a817a/)
 - [Kacper Burza](https://www.linkedin.com/in/kacper-burza/)
+- [Nathan Cheung](https://www.linkedin.com/in/~nathan/)
+- [Ornello Iannace](https://www.linkedin.com/in/ornello-iannace-b795a817a/)
+
 
 ## TOPIC CATEGORY
 
