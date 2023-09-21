@@ -81,7 +81,3 @@ Front-end Development
 - Prototyping the system UI
 - Running usability test
 - Integrate with back-end module
-
-## TO ALL EDP STUDENTS
-
-Due to COVID-19 pandemic, in the event University is not open for in-class/in-lab activities during the Winter term, your EDP topic specifications, requirements, implementations, and assessment methods will be adjusted by your FLCs at their discretion.
